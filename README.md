@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=EDEDED&height=240&section=header&text=Hi,%20I'm%20Jayanthi%20Balasubramani&fontSize=28&fontColor=333333&desc=Full%20Stack%20MERN%20Developer&descSize=22&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=EDEDED&height=220&section=header&text=Jayanthi%20Balasubramani&fontSize=30&fontColor=333333&desc=Full%20Stack%20MERN%20Developer&descSize=20&descAlignY=60&animation=fadeIn" />
 </p>
 
-<h2 align="center">Full Stack MERN Developer</h2>
+<br/>
 
-<p align="center" style="color:#7F00FF; font-weight:500;">
-  JavaScript | TypeScript | React | Node.js | Express | MongoDB
+<p align="center">
+  <b>JavaScript • TypeScript • React • Node.js • Express • MongoDB</b>
 </p>
 
 <p align="center">
@@ -28,8 +28,6 @@
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## 👩‍💻 About Me
 
