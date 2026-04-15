@@ -1,33 +1,26 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=EDEDED&height=220&section=header&text=Jayanthi%20Balasubramani&fontSize=30&fontColor=333333&desc=Full%20Stack%20MERN%20Developer&descSize=20&descAlignY=60&animation=fadeIn" />
-</p>
-
-<br/>
-
-<p align="center">
-  <b>JavaScript • TypeScript • React • Node.js • Express • MongoDB</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7F00FF&height=220&section=header&text=Jayanthi%20Balasubramani&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,ts,html,css" />
+  <b>Software Engineer | Full Stack Developer | MERN | React | JavaScript | TypeScript</b>
+</p>
+
+<p align="center">
+  📍 Jersey City, NJ | 💻 MERN Stack | 🚀 Web Development
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jayanthibs&label=Profile%20Views&color=7F00FF&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+  <a href="mailto:jayanthibala2004@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/jayanthi-balasubramani">💼 LinkedIn</a> •
+  <a href="https://github.com/jayanthibs">💻 GitHub</a>
 </p>
 
 ---
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/jayanthibs">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/jayanthi-balasubramani">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:jayanthibala2004@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 ## 👩‍💻 About Me
 
