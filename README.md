@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer | Full Stack Developer | MERN | React | JavaScript | TypeScript</b>
+  <b>Software Engineer | Full Stack Developer | MERN | React | JavaScript | TypeScript | Python</b>
 </p>
 
 <p align="center">
