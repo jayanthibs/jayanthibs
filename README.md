@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jayanthibala2004@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/jayanthi-balasubramani">💼 LinkedIn</a> •
-  <a href="https://github.com/jayanthibs">💻 GitHub</a>
+  📧 <a href="mailto:jayanthibala2004@gmail.com">jayanthibala2004@gmail.com</a> •
+  💼 <a href="https://www.linkedin.com/in/jayanthi-balasubramani">LinkedIn</a> •
+  💻 <a href="https://github.com/jayanthibs">GitHub</a>
 </p>
 
 ---
