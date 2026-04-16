@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7F00FF&height=220&section=header&text=Hi,%20I'm%20Jayanthi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:4B6CB7&height=220&section=header&text=Hi,%20I'm%20Jayanthi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
