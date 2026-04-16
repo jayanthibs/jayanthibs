@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6482,50:5B8FB0,100:9FC3DD&height=220&section=header&text=Hi,%20I'm%20Jayanthi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8D3,100:1E3A8A&height=100&section=header&text=Hi,%20I'm%20Jayanthi&fontSize=28&fontColor=ffffff&fontAlignY=50&width=750" />
 </p>
 <p align="center">
   <b>Software Engineer | Full Stack Developer | MERN | React | JavaScript | TypeScript | Python</b>
@@ -24,7 +24,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Full-Stack MERN Developer specializing in building scalable, high-performance, and user-focused web applications using modern JavaScript technologies. I have hands-on experience developing seamless frontend–backend integrations, designing efficient RESTful APIs, and creating responsive, intuitive user interfaces. With a background in QA automation, I bring a strong focus on code quality, reliability, and performance, ensuring applications are robust, maintainable, and production-ready.
+I am a Software Engineer with hands-on experience in full-stack web development using the MERN stack, building scalable, responsive, and user-focused applications with React, Node.js, Express.js, and MongoDB. I focus on writing clean, maintainable code and designing efficient RESTful APIs. In addition, I have experience in QA automation using tools like Selenium, TestNG, JUnit, and Cucumber, along with API testing using Postman to ensure reliability and performance. I also work with tools such as Git, GitHub, Jenkins, and Maven to support efficient development workflows and continuous integration. I am currently expanding my skills in Python while continuing to deepen my expertise in full-stack development. I am passionate about continuous learning and aim to grow as a Full Stack Engineer contributing to scalable and high-quality software systems.
 
 ---
 ## 🛠️ Tech Stack
