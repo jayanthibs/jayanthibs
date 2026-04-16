@@ -24,7 +24,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Software Engineer with hands-on experience in full-stack web development using the MERN stack, building scalable, responsive, and user-focused applications with React, Node.js, Express.js, and MongoDB. I focus on writing clean, maintainable code and designing efficient RESTful APIs. In addition, I have experience in QA automation using tools like Selenium, TestNG, JUnit, and Cucumber, along with API testing using Postman to ensure reliability and performance. I also work with tools such as Git, GitHub, Jenkins, and Maven to support efficient development workflows and continuous integration. I am currently expanding my skills in Python while continuing to deepen my expertise in full-stack development. I am passionate about continuous learning and aim to grow as a Full Stack Engineer contributing to scalable and high-quality software systems.
+I am a Software Engineer with hands-on experience in full-stack development using the MERN stack, building scalable and responsive web applications with React, Node.js, Express.js, and MongoDB. I focus on writing clean code and designing efficient RESTful APIs. I also have experience in QA automation using Selenium, TestNG, JUnit, and Cucumber, along with API testing using Postman, and I work with tools like Git, GitHub, Jenkins, and Maven to support smooth development workflows and CI/CD processes. I am currently expanding my skills in Python while strengthening my full-stack expertise, and I am passionate about continuous learning and building reliable, scalable software systems.
 
 ---
 ## 🛠️ Tech Stack
