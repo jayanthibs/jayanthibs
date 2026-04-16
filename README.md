@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6F78,50:2F8F9D,100:6ECBD3&height=220&section=header&text=Hi,%20I'm%20Jayanthi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A6482,50:5B8FB0,100:9FC3DD&height=220&section=header&text=Hi,%20I'm%20Jayanthi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 <p align="center">
   <b>Software Engineer | Full Stack Developer | MERN | React | JavaScript | TypeScript | Python</b>
