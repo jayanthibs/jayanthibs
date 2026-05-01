@@ -45,10 +45,12 @@ I am a Software Engineer with hands-on experience in full-stack development usin
 **⚙️ Backend:**  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
 
 **🗄️ Database:**  
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 **🧪 Testing:**  
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium" />
