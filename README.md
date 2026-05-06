@@ -10,9 +10,9 @@
   📍 Jersey City, NJ | 💻 MERN Stack | 🚀 Web Development
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jayanthibs&label=Profile%20Views&color=7F00FF&style=flat" alt="profile views"/>
-</p>
+</p> -->
 
 <p align="center">
   📧 <a href="mailto:jayanthibala2004@gmail.com">jayanthibala2004@gmail.com</a> •
