@@ -69,9 +69,9 @@ I am a Software Engineer with hands-on experience in full-stack development usin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayanthibs&show_icons=true&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayanthibs&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://streak-stats.demolab.com?user=jayanthibs&theme=tokyonight&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayanthibs&show_icons=true&theme=default&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayanthibs&layout=compact&theme=default&hide_border=true" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=jayanthibs&theme=default&hide_border=true&v=1" width="32%" />
 </p>
 ---
 
