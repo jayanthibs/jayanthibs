@@ -1,11 +1,10 @@
 <!-- HEADER -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8D3,100:1E3A8A&height=100&section=header&text=Hi,%20I'm%20Jayanthi&fontSize=28&fontColor=ffffff&fontAlignY=50&width=750" />
 </p>
 
 <p align="center">
-  <b>Generative AI Engineer | AI/ML | LLMs | RAG | Agentic AI | Python | Full-Stack Developer</b>
+  <b>Generative AI Engineer | LLMs | RAG | Agentic AI | Python | Full-Stack Developer</b>
 </p>
 
 <p align="center">
@@ -34,6 +33,8 @@ I’m passionate about Generative AI, Agentic AI, LLM applications, AI evaluatio
 
 ## 🤖 Generative AI & Machine Learning
 
+<p align="center">
+
 <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
@@ -42,17 +43,30 @@ I’m passionate about Generative AI, Agentic AI, LLM applications, AI evaluatio
 <img src="https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-00897B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4A90E2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Databases-6A5ACD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic_Search-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Evaluation-7952B3?style=for-the-badge" />
 
-**Focus Areas:**
+</p>
+
+**Focus Areas:**  
 LLM Applications • RAG • Agentic AI • AI Agents • Multi-Agent Systems • Prompt Engineering • LLM Evaluation • NLP • Semantic Search • Vector Databases • Model Evaluation
 
 ---
 
 ## 🐍 Languages & Data Engineering
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
@@ -61,95 +75,196 @@ LLM Applications • RAG • Agentic AI • AI Agents • Multi-Agent Systems �
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-**Data Technologies:**
-Data Engineering • Data Pipelines • Delta Lake • Snowflake • PostgreSQL • MongoDB
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Engineering-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Pipelines-455A64?style=for-the-badge" />
+
+</p>
 
 ---
 
 ## 💻 Full-Stack Development
 
-<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full--Stack_Development-1E3A8A?style=for-the-badge" />
 
-**Development:**
-REST APIs • Microservices • Responsive Web Applications • Frontend/Backend Integration • Authentication • API Integration
+</p>
 
 ---
 
 ## ☁️ Cloud & DevOps
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-455A64?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-**DevOps:**
-CI/CD • Infrastructure as Code • Containerization • Cloud Deployment • Git • GitHub
+</p>
 
 ---
 
 ## 🧪 Testing & Quality
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/TestNG-FF6B35?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST--Assured-43A047?style=for-the-badge" />
 
-**Testing:**
-UI Automation • API Testing • Unit Testing • Integration Testing • Test Automation
-
----
-
-## 🚀 Featured Areas
-
-### 🤖 Generative AI Projects
-
-* LLM Applications
-* Retrieval-Augmented Generation (RAG)
-* Conversational PDF/TXT Chatbots
-* Multi-Document RAG
-* LangChain Applications
-* AI Agents
-* Agentic AI Workflows
-* Prompt Engineering
-* LLM Evaluation
-* LLM Fine-Tuning with LoRA / PEFT
-
-### 💻 Full-Stack Projects
-
-* MERN Applications
-* React Applications
-* RESTful APIs
-* Authentication & Authorization
-* MongoDB Applications
-* Full-Stack Web Applications
-* Responsive UI Development
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayanthibs&show_icons=true&theme=default&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayanthibs&layout=compact&theme=default&hide_border=true" width="32%" />
-  <img src="https://streak-stats.demolab.com?user=jayanthibs&theme=default&hide_border=true&v=1" width="32%" />
 </p>
 
 ---
 
-<p align="center">
-✨ Building AI-powered, scalable, and user-focused applications
-</p>
+## 🚀 Featured Projects
+
+### 🤖 Generative AI & LLM Applications
+
+A collection of hands-on Generative AI applications exploring LLMs, LangChain, prompt engineering, agents, and AI workflows.
+
+**Highlights:**
+
+- LLM-powered text summarization and content generation
+- AI sentiment analysis
+- LangChain prompt templates and workflows
+- Conversational AI applications
+- LangChain memory and sequential chains
+- ReAct and AI agent implementations
+- Tool-using agent workflows
+
+**Technologies:**  
+Python • LangChain • OpenAI • Hugging Face • Streamlit • Prompt Engineering • LLMs
+
+---
+
+### 📚 Retrieval-Augmented Generation (RAG)
+
+Built document-based question-answering applications that combine document processing, semantic search, vector embeddings, and LLMs.
+
+**Highlights:**
+
+- Conversational PDF and TXT chatbot
+- Multi-document RAG question answering
+- Document ingestion and preprocessing
+- Recursive text splitting and chunking
+- Hugging Face embeddings
+- FAISS vector search
+- Context-aware LLM responses
+- Retrieval-based question answering
+
+**Technologies:**  
+Python • LangChain • RAG • OpenAI • FAISS • Hugging Face • Streamlit • PyPDF
+
+---
+
+### 🧠 LLM Fine-Tuning with LoRA / PEFT
+
+Implemented a hands-on parameter-efficient fine-tuning workflow using Hugging Face Transformers and LoRA/PEFT.
+
+**Highlights:**
+
+- Training and validation dataset preparation
+- Tokenization and preprocessing
+- LoRA configuration
+- Parameter-efficient fine-tuning
+- Hugging Face Trainer
+- Base vs. fine-tuned model comparison
+- LoRA adapter saving and reuse
+
+**Technologies:**  
+Python • Hugging Face Transformers • PEFT • LoRA • PyTorch • LLM Fine-Tuning
+
+---
+
+### 📊 LLM Evaluation & Benchmarking
+
+Developed evaluation workflows for measuring and comparing LLM-generated responses.
+
+**Highlights:**
+
+- Benchmark dataset preparation
+- Automated model evaluation
+- Reference vs. generated response comparison
+- ROUGE-based evaluation
+- Text generation quality assessment
+- Model performance comparison
+
+**Technologies:**  
+Python • Hugging Face • NLP • LLM Evaluation • ROUGE
+
+---
+
+### 💻 MERN Full-Stack Applications
+
+Built responsive full-stack web applications using the MERN stack and modern frontend technologies.
+
+**Highlights:**
+
+- RESTful API development
+- React component-based UI
+- Node.js and Express.js backend services
+- MongoDB database integration
+- Authentication and authorization
+- Frontend/backend integration
+- Responsive UI development
+- API integration and deployment
+
+**Technologies:**  
+React • JavaScript • TypeScript • Node.js • Express.js • MongoDB • REST APIs • Tailwind CSS
+
+---
+
+## 🎯 Current Focus
+
+```text
+Generative AI
+     ↓
+LLMs → RAG → Agents → Multi-Agent Systems
+     ↓
+Prompt Engineering → Evaluation → Fine-Tuning
+     ↓
+Python → Machine Learning → Data Engineering
+     ↓
+Cloud → Docker → Kubernetes → CI/CD
+     ↓
+Full-Stack AI Applications
