@@ -279,21 +279,3 @@ Building Full-Stack AI Applications
 </p>
 ```
 
-### A couple of things I intentionally changed
-
-**1. I removed the old Data Engineering emphasis.**
-Your current README had a whole Data Engineering section with PySpark, Spark, Delta Lake, Snowflake, and Data Pipelines. That's no longer necessary for the profile we're building.
-
-**2. I kept testing.**
-Your QA background is real and relevant, so Selenium, TestNG, JUnit, Cucumber, Postman and REST Assured remain visible, but they aren't competing with your main Full-Stack/GenAI positioning.
-
-**3. I used your actual repositories.**
-The RAG, prompt engineering/LangChain, fine-tuning, ProTasker, IP Tracker and Recipe projects now match the projects we've been putting on LinkedIn.
-
-**4. I didn't claim live demos for GenAI.**
-The GenAI projects point to GitHub repositories, while the three web applications retain their live demos.
-
-**5. I removed “Multi-Agent Systems” from the main positioning.**
-Your old README prominently mentioned it. Unless you have a repository that clearly demonstrates a multi-agent system, I wouldn't make it a headline skill.
-
-This version should make your GitHub, LinkedIn, and resume tell **one consistent story** instead of looking like three different versions of your background.
