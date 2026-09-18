@@ -57,10 +57,6 @@ I’m continuously learning and exploring Generative AI, LLM applications, RAG, 
 
 </p>
 
-**Focus Areas:**
-
-LLM Applications • RAG • Prompt Engineering • AI Agents • Semantic Search • Vector Stores • Embeddings • LLM Evaluation • Fine-Tuning • PEFT • LoRA • LCEL • Memory • RetrievalQA
-
 ---
 
 ## 🐍 Python & Backend
@@ -75,14 +71,6 @@ LLM Applications • RAG • Prompt Engineering • AI Agents • Semantic Searc
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
 
 </p>
-
-**Backend:**
-
-Node.js • Express.js • FastAPI • REST APIs • Middleware • JWT Authentication • OAuth 2.0 • bcrypt
-
-**Programming:**
-
-Python • JavaScript (ES6+) • TypeScript • Java • SQL • OOP • Data Structures & Algorithms
 
 ---
 
@@ -109,14 +97,6 @@ Python • JavaScript (ES6+) • TypeScript • Java • SQL • OOP • Data St
 
 </p>
 
-**Frontend:**
-
-JavaScript • TypeScript • React • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Axios • React Hooks • Responsive Design • React Testing Library
-
-**Development:**
-
-REST APIs • CRUD • JWT Authentication • OAuth 2.0 • API Integration • Frontend/Backend Integration • Middleware • Validation • Error Handling
-
 ---
 
 ## 🗄️ Databases
@@ -124,15 +104,13 @@ REST APIs • CRUD • JWT Authentication • OAuth 2.0 • API Integration • 
 <p align="center">
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
 
 </p>
-
-**Databases:**
-
-MongoDB • Mongoose • PostgreSQL • MySQL • Oracle • SQL
 
 ---
 
@@ -147,16 +125,9 @@ MongoDB • Mongoose • PostgreSQL • MySQL • Oracle • SQL
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/REST--Assured-43A047?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 
 </p>
-
-**Testing:**
-
-Selenium WebDriver • TestNG • JUnit • Cucumber (BDD) • Postman • REST Assured • Jest • React Testing Library
-
-**Testing Practices:**
-
-Functional Testing • Integration Testing • Regression Testing • API Testing • Database Testing • Manual Testing • Test Automation • Defect Tracking
 
 ---
 
@@ -177,17 +148,17 @@ Functional Testing • Integration Testing • Regression Testing • API Testin
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
 </p>
 
-**Tools & Workflow:**
+<p align="center">
 
-Git • GitHub • GitHub Actions • Jenkins • Maven • Docker • CI/CD • Jira • Microsoft Excel
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
 
-**Cloud:**
-
-AWS • EC2 • S3
-
+</p>
 ---
 
 ## 🚀 Featured Projects
