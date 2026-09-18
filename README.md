@@ -53,11 +53,13 @@ I’m continuously learning and exploring Generative AI, LLM applications, RAG, 
 <img src="https://img.shields.io/badge/Vector_Stores-6A5ACD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Embeddings-7952B3?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LoRA%2FPEFT-4A90E2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 </p>
 
 **Focus Areas:**
-LLM Applications • RAG • Prompt Engineering • AI Agents • Semantic Search • Vector Stores • Embeddings • LLM Evaluation • Fine-Tuning
+
+LLM Applications • RAG • Prompt Engineering • AI Agents • Semantic Search • Vector Stores • Embeddings • LLM Evaluation • Fine-Tuning • PEFT • LoRA • LCEL • Memory • RetrievalQA
 
 ---
 
@@ -67,10 +69,20 @@ LLM Applications • RAG • Prompt Engineering • AI Agents • Semantic Searc
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
 
 </p>
+
+**Backend:**
+
+Node.js • Express.js • FastAPI • REST APIs • Middleware • JWT Authentication • OAuth 2.0 • bcrypt
+
+**Programming:**
+
+Python • JavaScript (ES6+) • TypeScript • Java • SQL • OOP • Data Structures & Algorithms
 
 ---
 
@@ -93,11 +105,34 @@ LLM Applications • RAG • Prompt Engineering • AI Agents • Semantic Searc
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 </p>
 
+**Frontend:**
+
+JavaScript • TypeScript • React • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Axios • React Hooks • Responsive Design • React Testing Library
+
 **Development:**
-Responsive UI • React Hooks • REST APIs • CRUD • Authentication • API Integration • Frontend/Backend Integration
+
+REST APIs • CRUD • JWT Authentication • OAuth 2.0 • API Integration • Frontend/Backend Integration • Middleware • Validation • Error Handling
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+</p>
+
+**Databases:**
+
+MongoDB • Mongoose • PostgreSQL • MySQL • Oracle • SQL
 
 ---
 
@@ -111,11 +146,47 @@ Responsive UI • React Hooks • REST APIs • CRUD • Authentication • API 
 <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/REST--Assured-43A047?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 
 </p>
 
 **Testing:**
-Functional Testing • Integration Testing • Regression Testing • API Testing • Database Validation • Test Automation
+
+Selenium WebDriver • TestNG • JUnit • Cucumber (BDD) • Postman • REST Assured • Jest • React Testing Library
+
+**Testing Practices:**
+
+Functional Testing • Integration Testing • Regression Testing • API Testing • Database Testing • Manual Testing • Test Automation • Defect Tracking
+
+---
+
+## ⚙️ Tools, DevOps & Cloud
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge" />
+
+</p>
+
+**Tools & Workflow:**
+
+Git • GitHub • GitHub Actions • Jenkins • Maven • Docker • CI/CD • Jira • Microsoft Excel
+
+**Cloud:**
+
+AWS • EC2 • S3
 
 ---
 
@@ -123,7 +194,7 @@ Functional Testing • Integration Testing • Regression Testing • API Testin
 
 ### 🤖 Generative AI Projects
 
-A collection of hands-on Generative AI projects exploring LLM applications, RAG, prompt engineering, AI agents, and model fine-tuning.
+A collection of hands-on Generative AI projects exploring LLM applications, RAG, prompt engineering, AI agents, model evaluation, and fine-tuning.
 
 **Projects include:**
 
@@ -132,11 +203,12 @@ A collection of hands-on Generative AI projects exploring LLM applications, RAG,
 * Multi-document question answering
 * Prompt engineering experiments
 * LangChain chains, LCEL, memory, and agents
-* LLM evaluation and benchmarking
+* LLM evaluation
 * Falcon-1B fine-tuning using LoRA/PEFT
 
 **Technologies:**
-Python • LangChain • OpenAI • Hugging Face • FAISS • Streamlit • PyTorch • PEFT • LoRA
+
+Python • LangChain • OpenAI • Hugging Face Transformers • FAISS • Streamlit • PyTorch • PEFT • LoRA
 
 ---
 
@@ -155,9 +227,11 @@ Built document-based question-answering applications using document processing, 
 * Context-grounded responses
 
 **Technologies:**
+
 Python • LangChain • RAG • OpenAI • FAISS • Hugging Face • Streamlit
 
 **Repository:**
+
 🔗 https://github.com/jayanthibs/rag-projects
 
 ---
@@ -180,9 +254,11 @@ Implemented and explored different prompting strategies and LangChain applicatio
 * AI agents and tool usage
 
 **Technologies:**
+
 Python • LangChain • OpenAI • Prompt Engineering
 
 **Repositories:**
+
 🔗 https://github.com/jayanthibs/genai-prompt-engineering
 🔗 https://github.com/jayanthibs/langchain-fundamentals
 
@@ -203,9 +279,11 @@ Implemented a parameter-efficient fine-tuning workflow using Hugging Face Transf
 * Base vs. fine-tuned model comparison
 
 **Technologies:**
+
 Python • Hugging Face Transformers • PEFT • LoRA • PyTorch
 
 **Repository:**
+
 🔗 https://github.com/jayanthibs/llm-fine-tuning-evaluation
 
 ---
@@ -215,6 +293,7 @@ Python • Hugging Face Transformers • PEFT • LoRA • PyTorch
 MERN full-stack project management application for creating projects, managing tasks, and tracking progress.
 
 **Technologies:**
+
 React • JavaScript • Node.js • Express.js • MongoDB • Mongoose • JWT • Tailwind CSS
 
 🔗 **GitHub:** https://github.com/jayanthibs/pro-tasker-MERN-full-stack-capstone-project
@@ -228,6 +307,7 @@ React • JavaScript • Node.js • Express.js • MongoDB • Mongoose • JWT
 Responsive React application that retrieves IP address and geolocation information using the IPify API.
 
 **Technologies:**
+
 React • JavaScript • Vite • Tailwind CSS • REST APIs • Leaflet
 
 🔗 **GitHub:** https://github.com/jayanthibs/ip-address-tracker-react-project
@@ -241,6 +321,7 @@ React • JavaScript • Vite • Tailwind CSS • REST APIs • Leaflet
 Responsive React application for searching and discovering recipes using a third-party API.
 
 **Technologies:**
+
 React • JavaScript • Vite • Tailwind CSS • REST APIs
 
 🔗 **GitHub:** https://github.com/jayanthibs/recipe-discovery-app-sba10
@@ -254,13 +335,17 @@ React • JavaScript • Vite • Tailwind CSS • REST APIs
 ```text
 Full-Stack Development
         ↓
-React → Node.js → Express.js → MongoDB
+React → JavaScript → TypeScript
+        ↓
+Node.js → Express.js → MongoDB
         ↓
 Python → FastAPI → REST APIs
         ↓
 Generative AI → LLMs → RAG → AI Agents
         ↓
 Prompt Engineering → Evaluation → Fine-Tuning
+        ↓
+Docker → GitHub Actions → Jenkins → AWS
         ↓
 Building Full-Stack AI Applications
 ```
@@ -276,6 +361,7 @@ Building Full-Stack AI Applications
   <a href="mailto:jayanthibala2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/jayanthibs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-```
-
